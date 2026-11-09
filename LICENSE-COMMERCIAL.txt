@@ -1,0 +1,11 @@
+berkeCouncil - Commercial License
+Copyright (c) 2026-present Berke GÜLMEN
+
+A commercial license lets you sell berkeCouncil, include it in a product or a service, or use
+it in any other way the PolyForm Noncommercial and PolyForm Internal Use licenses do not allow.
+
+A commercial license is granted in writing, per company or per product. To obtain one,
+contact: berkegulmen at outlook dot com
+
+Without a written commercial license, you may use berkeCouncil only under the PolyForm
+Noncommercial License 1.0.0 or the PolyForm Internal Use License 1.0.0 (see LICENSE).

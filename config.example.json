@@ -1,0 +1,18 @@
+{
+  "grok_session": "<your Grok session id>",
+  "codex_thread": "<your Codex thread id>",
+  "codex_rollout": "<path to that thread's rollout .jsonl file>",
+  "claude_url": "http://127.0.0.1:8791",
+  "keys_dir": "~/.config/council/keys",
+  "save_root": "~/council-notes",
+  "save_folders": ["grok", "claude", "codex", "qwen", "guests"],
+  "guests": {
+    "deepseek": {
+      "label": "DeepSeek",
+      "base": "https://api.deepseek.com",
+      "key": "deepseek",
+      "models": ["deepseek-flash"],
+      "thinking": {"deepseek-flash": {"kind": "effort", "levels": ["none", "low", "medium", "high"]}}
+    }
+  }
+}
